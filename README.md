@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm LEXU</h1>
 <h3 align="center">A passionate Fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on **Fivem and myself**
+- 🔭 I’m currently working on **FiveM and myself**
 
 ## 🌐 Socials:
 ![DISCORD](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)<br>LEXU#3467
