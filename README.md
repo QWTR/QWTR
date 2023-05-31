@@ -12,7 +12,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=QWTR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=QWTR&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=QWTR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![align="center"](https://github-readme-stats.vercel.app/api/top-langs/?username=QWTR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=QWTR&icon=2&color=1)](https://visitcount.itsvg.in)
