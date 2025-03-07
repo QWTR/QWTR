@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm LEXU</h1>
+<h1 align="center">Hi 👋, I'm QWTR</h1>
 <h3 align="center">A passionate Fullstack developer from Poland</h3>
 
 - 🔭 I’m currently working on **FiveM and myself**
